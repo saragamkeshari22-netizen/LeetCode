@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
