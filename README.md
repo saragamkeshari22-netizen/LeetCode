@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
