@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
