@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
