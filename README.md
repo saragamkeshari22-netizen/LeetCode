@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
