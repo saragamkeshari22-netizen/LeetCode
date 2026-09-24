@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
