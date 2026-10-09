@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0041-first-missing-positive) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
 ## Quicksort
