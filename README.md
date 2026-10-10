@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
 | [0238-product-of-array-except-self](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0022-generate-parentheses) |
+| [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
