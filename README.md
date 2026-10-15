@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/2235-add-two-integers) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Backtracking
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
