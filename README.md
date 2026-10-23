@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
