@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/2235-add-two-integers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
