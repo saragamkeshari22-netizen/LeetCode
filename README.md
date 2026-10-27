@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/2235-add-two-integers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0112-path-sum) |
 ## Depth-First Search
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0112-path-sum) |
 ## Divide and Conquer
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
