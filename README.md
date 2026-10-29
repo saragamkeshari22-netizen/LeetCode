@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
