@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
