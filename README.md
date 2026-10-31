@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
+| [0338-counting-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
