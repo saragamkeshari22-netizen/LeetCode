@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
+| [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0182-duplicate-emails) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
