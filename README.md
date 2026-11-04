@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/2235-add-two-integers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0338-counting-bits) |
 ## Tree
 |  |
