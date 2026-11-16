@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Trie
 |  |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0101-symmetric-tree) |
