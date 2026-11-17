@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0046-permutations) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
