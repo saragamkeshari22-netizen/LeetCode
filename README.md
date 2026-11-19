@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0509-fibonacci-number) |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0338-counting-bits) |
 ## Tree
 |  |
