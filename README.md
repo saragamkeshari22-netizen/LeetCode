@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0179-largest-number) |
+| [0228-summary-ranges](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/saragamkeshari22-netizen/LeetCode/tree/master/0704-binary-search) |
